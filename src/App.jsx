@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import Weather from "./components/Weather";
 import "./App.css";
 
 function App() {
@@ -30,6 +31,8 @@ function App() {
           onKeyDownCapture={searchLocation}
         />
       </div>
+
+      <Weather weatherData={data} />
     </div>
   );
 }
