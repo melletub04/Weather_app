@@ -1,3 +1,5 @@
+Reflektion och dokumentation
+
 Syfte
 
 Syftet med projektet var att skapa en webbapplikation i React som hämtar väderdata från OpenWeatherMap och presenterar informationen på ett tydligt och användarvänligt sätt. Applikationen skulle hantera användarens inmatning och kommunicera med ett externt API. Projektet skulle även versionshanteras med Git och testas med Cypress för att säkerställa att gränssnitt och funktioner fungerar som avsett.
